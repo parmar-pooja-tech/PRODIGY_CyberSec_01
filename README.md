@@ -12,6 +12,9 @@ Python program to encrypt and decrypt text using the Caesar Cipher algorithm. Us
 - Handling user input and string manipulation
 <br>
 ## Usage
+<br>
 1. Clone the repo.
+   <br>
 2. Run `caesar_cipher.py`.
+   <br>
 3. Input the message and shift value as prompted.
